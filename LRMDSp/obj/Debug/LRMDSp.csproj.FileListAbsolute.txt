@@ -1,0 +1,86 @@
+c:\users\din\documents\visual studio 2013\Projects\LRMDSp\LRMDSp\bin\Debug\LRMDSp.exe.config
+c:\users\din\documents\visual studio 2013\Projects\LRMDSp\LRMDSp\bin\Debug\LRMDSp.exe
+c:\users\din\documents\visual studio 2013\Projects\LRMDSp\LRMDSp\bin\Debug\LRMDSp.pdb
+c:\users\din\documents\visual studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.Form1.resources
+c:\users\din\documents\visual studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.Properties.Resources.resources
+c:\users\din\documents\visual studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.csproj.GenerateResource.Cache
+c:\users\din\documents\visual studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.exe
+c:\users\din\documents\visual studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.pdb
+c:\users\din\documents\visual studio 2013\Projects\LRMDSp\LRMDSp\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\din\documents\visual studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.ResourceTab.resources
+c:\users\din\documents\visual studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.LessonPlan.resources
+c:\users\din\documents\visual studio 2013\Projects\LRMDSp\LRMDSp\bin\Debug\LrmdsDb.mdf
+c:\users\din\documents\visual studio 2013\Projects\LRMDSp\LRMDSp\bin\Debug\LrmdsDb_log.ldf
+C:\Users\Din\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.csprojResolveAssemblyReference.cache
+C:\Users\Din\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.LessonPlan2.resources
+C:\Users\Din\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.Examination.resources
+C:\Users\Din\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.Examination2.resources
+C:\Users\Din\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.AccountNw.resources
+C:\Users\Din\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.AccountSrch.resources
+C:\Users\Din\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.AccountTab.resources
+C:\Users\Din\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.Login.resources
+C:\Users\Din\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.AccountEdit.resources
+C:\Users\Din\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.PersonnelNw.resources
+C:\Users\Din\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.PersonnelTab.resources
+C:\Users\Din\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.TG.resources
+C:\Users\Din\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.TG2.resources
+C:\Users\Din\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.PersonnelSrc.resources
+C:\Users\Din\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.PersonnelEdit.resources
+C:\Users\Din\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.MemoTab.resources
+C:\Users\Din\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\bin\Debug\MaterialSkin.dll
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\bin\Debug\LRMDSp.exe.config
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.exe
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.pdb
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\bin\Debug\LrmdsDb.mdf
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\bin\Debug\LrmdsDb_log.ldf
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\bin\Debug\LRMDSp.exe
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\bin\Debug\LRMDSp.pdb
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.csprojResolveAssemblyReference.cache
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.AccountEdit.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.AccountNw.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.AccountSrch.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.AccountTab.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.Examination.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.Examination2.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.Form1.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.Login.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.LessonPlan.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.LessonPlan2.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.MemoTab.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.PersonnelEdit.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.PersonnelNw.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.PersonnelSrc.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.PersonnelTab.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.Properties.Resources.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.ResourceTab.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.TG.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.TG2.resources
+C:\Users\Cherrylaine\Documents\Visual Studio 2013\Projects\LRMDSp\LRMDSp\obj\Debug\LRMDSp.csproj.GenerateResource.Cache
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\bin\Debug\LRMDSp.exe.config
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.exe
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.pdb
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\bin\Debug\LrmdsDb.mdf
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\bin\Debug\LrmdsDb_log.ldf
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\bin\Debug\LRMDSp.exe
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\bin\Debug\LRMDSp.pdb
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.csprojResolveAssemblyReference.cache
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.AccountEdit.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.AccountNw.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.AccountSrch.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.AccountTab.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.Examination.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.Examination2.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.Form1.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.Login.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.LessonPlan.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.LessonPlan2.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.MemoTab.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.PersonnelEdit.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.PersonnelNw.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.PersonnelSrc.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.PersonnelTab.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.Properties.Resources.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.ResourceTab.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.TG.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.TG2.resources
+G:\LRMDS Serpa Juan, Dela pena, Quisel, Pagaran, De Castro\LRMDSp\obj\Debug\LRMDSp.csproj.GenerateResource.Cache
